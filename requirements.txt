@@ -3,3 +3,5 @@ healpy
 numpy
 json
 shapely
+mw_plot
+astropy_healpix

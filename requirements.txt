@@ -2,3 +2,4 @@ astropy
 healpy
 numpy
 json
+shapely

@@ -5,3 +5,4 @@ json
 shapely
 mw_plot
 astropy_healpix
+rubin_sim

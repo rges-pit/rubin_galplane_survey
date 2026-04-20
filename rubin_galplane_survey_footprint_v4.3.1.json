@@ -1,7 +1,7 @@
 {
     "label": "Rubin_baseline_v4.3.1_10yrs",
     "nside": 64,
-    "healpix_resolution_deg": 0.00025566346464760684,
+    "healpix_resolution_deg": 0.8392936452111668,
     "n_healpix": 49152,
     "healpix_map": [
         0.0,
